@@ -1,6 +1,6 @@
 document.querySelector('#ex2').innerHTML = `
-    <header>
+    <div>
     <h2>Exercise 2</h2>
      <!-- HTML code here -->
-    </header>
+    </div>
 `
