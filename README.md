@@ -8,9 +8,9 @@ Create a mob team with https://mobti.me/ and add the members name to the mob. Th
 
 ### Local Setup
 
-Run `yarn`
+Run `npm install`
 
-and then `yarn dev`
+and then `npm run dev`
 
 Go to http://localhost:5173/
 
