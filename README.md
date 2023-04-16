@@ -1,4 +1,4 @@
-# Shevelopers Team Programming
+# Welcome Shevelopers Team Programming Coding Dojo
 
 ## Getting Started
 
