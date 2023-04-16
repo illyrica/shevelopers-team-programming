@@ -45,4 +45,6 @@ const receipt = {
 #### Part 2 
 Now add an input field that takes a number that scales the amount of each ingredient by that number and display the updated values on http://localhost:5173/exercise3. 
 
+## More Exercises
 
+For inspiration https://exercism.org/tracks/javascript/exercises

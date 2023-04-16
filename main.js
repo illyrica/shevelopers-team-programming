@@ -1,13 +1,12 @@
-import './style.css'
 
 document.querySelector('#app').innerHTML = `
-  <div>
-    <h1>Welcome to the Coding Dojo</h1>
+  <header>
+    <h1>Welcome to the Team Programming Coding Dojo</h1>
     <div>
-    <h3>Go to:</h3>
+    <p>Go to:</p>
         <div><a href="/exercise1/">Exercise 1</a></div>
         <div><a href="/exercise2/">Exercise 2</a></div>
         <div><a href="/exercise3/">Exercise 3</a></div>
     </div>
-  </div>
+  </header>
 `
