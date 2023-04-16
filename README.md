@@ -1,6 +1,13 @@
 # Shevelopers Team Programming
 
 ## Getting Started
+
+### Setup mob timer
+
+Create a mob team with https://mobti.me/ and add the members name to the mob. Then set the timer duration to 10 minutes and you are ready to go.
+
+### Local Setup
+
 Run `yarn`
 
 and then `yarn dev`
